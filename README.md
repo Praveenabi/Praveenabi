@@ -15,3 +15,10 @@ Visit [my personal website](https://praveenabi.github.io/) to see my resumé .
 <a href="https://github.com/Praveenabi/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Praveenabi&layout=compact&langs_count=8&card_width=320" />
 </a>
+
+<a href="https://github.com/Praveenabi/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Praveenabi&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/Praveenabi/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Praveenabi&repo=convoychat" />
+</a>
