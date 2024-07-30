@@ -7,4 +7,4 @@ Visit [my personal website](https://praveenabi.github.io/) to see my resumé .
 
 [![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Praveenabi&show_icons=true&theme=dracula)](https://github.com/Praveenabi/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenabi&layout=pie&show_icons=true&theme=highcontrast)](https://github.com/Praveenabi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenabi&layout=pie&show_icons=true&theme=tokyonight)](https://github.com/Praveenabi/github-readme-stats)
