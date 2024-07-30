@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Praveen or Abi
+# Hi there 👋 I'm Praveen or You can also call me as Abi
 I'm a software Engineer. 
 
 Other interests of mine include Machine Learning, Creating Apps,Hacking,Embedded systems. 
