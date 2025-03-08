@@ -10,5 +10,3 @@ I'm a software Engineer.
 Top Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Praveenabi&repo=Praveenabi.github.io&description_lines_count=1)](https://github.com/Praveenabi/Praveenabi.github.io)
-
-[![An image of @praveenabi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/praveenabi)](https://holopin.io/@praveenabi)
