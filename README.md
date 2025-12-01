@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Praveen or Call me Abi
+# Hi there 👋 You can call me Praveen or  Abi
 I'm a software Engineer. 
 
 <!--Visit [my personal website](https://praveenabi.github.io/) to see my resumé .--> 
