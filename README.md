@@ -5,8 +5,8 @@ I'm a software Engineer.
 
 [![Praveen's GitHub stats](https://github-readme-stats-praveenabi.vercel.app/api?username=Praveenabi&show_icons=true&theme=transparent)](https://github.com/Praveenabi/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-praveenabi.vercel.app)/api/top-langs/?username=Praveenabi&layout=pie&theme=transparent)](https://github.com/Praveenabi/github-readme-stats)
+[![Top Langs](https://github-readme-stats-praveenabi.vercel.app/api/top-langs/?username=Praveenabi&layout=pie&theme=transparent)](https://github.com/Praveenabi/github-readme-stats)
 
 Top Repositories
 
-[![Readme Card](https://github-readme-stats-praveenabi.vercel.app)/api/pin/?username=Praveenabi&repo=Praveenabi.github.io&description_lines_count=1)](https://github.com/Praveenabi/Praveenabi.github.io)
+[![Readme Card](https://github-readme-stats-praveenabi.vercel.app/api/pin/?username=Praveenabi&repo=Praveenabi.github.io&description_lines_count=1)](https://github.com/Praveenabi/Praveenabi.github.io)
